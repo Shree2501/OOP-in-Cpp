@@ -5,7 +5,7 @@ class Student{
     public:
         int roll;
         string name;
-        //Default Constructor
+        //Parameterized Constructor
         Student(int r, string n){
             roll = r;
             name = n;
